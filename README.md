@@ -15,7 +15,6 @@ This repository contains programming questions based on Trees.
   https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
   https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - K Sum Path in a tree:  https://practice.geeksforgeeks.org/problems/k-sum-paths/1
-- Kth Ancestor in a tree: https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 - Max sum of non-adjacent nodes in a tree: https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
 - Zig-Zag traversal of tree: https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
 - Vertical Order traversal of a tree: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
