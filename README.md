@@ -27,7 +27,7 @@ This repository contains programming questions based on Trees.
   https://practice.geeksforgeeks.org/problems/construct-tree-1/1
   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - Construct tree from Inorder and Postorder traversal:
-  https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/
+  https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1
   https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 - Minimum time to burn binary tree: https://practice.geeksforgeeks.org/problems/burning-tree/1
 - Morris traversal: https://www.geeksforgeeks.org/morris-traversal-for-preorder/
